@@ -1,0 +1,10 @@
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\bin\Debug\CRUD_Notas.exe.config
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\bin\Debug\CRUD_Notas.exe
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\bin\Debug\CRUD_Notas.pdb
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.csproj.AssemblyReference.cache
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.Form1.resources
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.Properties.Resources.resources
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.csproj.GenerateResource.cache
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.csproj.CoreCompileInputs.cache
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.exe
+E:\Courses\C#\CRUD_Notas\CRUD_Notas\obj\Debug\CRUD_Notas.pdb
